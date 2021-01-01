@@ -27,9 +27,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+![Benchmark](https://dashboard.snapcraft.io/site_media/appmedia/2016/07/x86rdrand-benchmark-256x256.png)
 
   <h3 align="center">BenchMark using OpenJDK JMH</h3>
 
