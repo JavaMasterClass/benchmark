@@ -27,7 +27,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-![Benchmark](https://dashboard.snapcraft.io/site_media/appmedia/2016/07/x86rdrand-benchmark-256x256.png)
+  <a href="https://github.com/JavaMasterClass/benchmark">
+    <img src="https://dashboard.snapcraft.io/site_media/appmedia/2016/07/x86rdrand-benchmark-256x256.png" alt="Logo" width="80" height="80">
+  </a>
 
   <h3 align="center">BenchMark using OpenJDK JMH</h3>
 
